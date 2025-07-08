@@ -33,7 +33,7 @@ This repository contains the analysis and documentation for a team project focus
 
 ## 📄 Deliverables
 
-- 🧾 [SRS Document & Diagrams (DOCX/PDF)](./Gym_BA_Project_Report_TruongDuyMinh.pdf) *(Add actual link or file name here)*
+- 🧾  [SRS Document & Diagrams (PDF)](./Gym_BA_Project_Report_TruongDuyMinh.docx.pdf)
 
 ## 📌 Notes
 
